@@ -1,0 +1,31 @@
+well_id,stage,planned_fluid_bbl,actual_fluid_bbl,planned_sand_lb,actual_sand_lb,primary_fluid_system,additive_package,sand_type
+W-101,1,10681.7,10807.0,480588.0,451157.0,Hybrid Gel,Friction reducer + biocide,30/50 Brown
+W-101,2,10459.9,9906.2,880916.0,951627.0,Slickwater,Clay control + friction reducer,40/70 White
+W-101,3,6857.7,6606.1,668886.0,701126.0,Linear Gel,Scale inhibitor + surfactant,40/70 White
+W-101,4,9183.4,9597.6,845648.0,852370.0,Slickwater,Scale inhibitor + surfactant,100 Mesh
+W-101,5,8304.7,7904.0,551827.0,512873.0,Slickwater,Scale inhibitor + surfactant,30/50 Brown
+W-101,6,11987.0,11844.5,692891.0,656669.0,Hybrid Gel,Clay control + friction reducer,30/50 Brown
+W-102,1,8454.9,8540.4,665789.0,671196.0,Slickwater,Friction reducer + biocide,40/70 White
+W-102,2,11321.0,11221.9,704795.0,686987.0,Linear Gel,Clay control + friction reducer,30/50 Brown
+W-102,3,7535.0,7142.3,566421.0,565221.0,Hybrid Gel,Friction reducer + biocide,100 Mesh
+W-102,4,10638.5,10283.5,785628.0,826220.0,Linear Gel,Friction reducer + biocide,30/50 Brown
+W-102,5,10191.5,10895.3,576290.0,582007.0,Hybrid Gel,Clay control + friction reducer,40/70 White
+W-102,6,12286.2,12105.8,517138.0,567893.0,Linear Gel,Clay control + friction reducer,100 Mesh
+W-103,1,9107.5,9147.5,672842.0,664848.0,Linear Gel,Friction reducer + biocide,100 Mesh
+W-103,2,9700.2,10392.2,878749.0,918498.0,Linear Gel,Clay control + friction reducer,30/50 Brown
+W-103,3,10903.4,11189.0,437485.0,471046.0,Slickwater,Friction reducer + biocide,40/70 White
+W-103,4,11178.5,11792.9,372242.0,351752.0,Hybrid Gel,Scale inhibitor + surfactant,40/70 White
+W-103,5,11567.0,10925.2,793897.0,737360.0,Hybrid Gel,Friction reducer + biocide,100 Mesh
+W-103,6,12157.9,12435.2,367439.0,387214.0,Linear Gel,Clay control + friction reducer,100 Mesh
+W-104,1,8601.6,9275.0,356500.0,367252.0,Linear Gel,Scale inhibitor + surfactant,40/70 White
+W-104,2,8282.6,8898.0,723646.0,741440.0,Linear Gel,Friction reducer + biocide,100 Mesh
+W-104,3,7290.0,7607.1,676843.0,629621.0,Linear Gel,Friction reducer + biocide,40/70 White
+W-104,4,9845.1,9564.4,378295.0,372202.0,Slickwater,Friction reducer + biocide,40/70 White
+W-104,5,7071.4,7459.8,532599.0,582795.0,Slickwater,Clay control + friction reducer,100 Mesh
+W-104,6,7021.7,7310.7,741526.0,705848.0,Linear Gel,Scale inhibitor + surfactant,30/50 Brown
+W-105,1,7631.8,7453.0,472305.0,482511.0,Slickwater,Friction reducer + biocide,100 Mesh
+W-105,2,11205.3,10567.8,528154.0,540226.0,Hybrid Gel,Friction reducer + biocide,100 Mesh
+W-105,3,8511.0,9046.0,447338.0,417082.0,Slickwater,Scale inhibitor + surfactant,100 Mesh
+W-105,4,10387.9,10233.1,830388.0,881892.0,Slickwater,Clay control + friction reducer,40/70 White
+W-105,5,8566.9,9076.2,400299.0,398694.0,Linear Gel,Friction reducer + biocide,40/70 White
+W-105,6,11695.8,12429.1,658832.0,657600.0,Slickwater,Friction reducer + biocide,100 Mesh

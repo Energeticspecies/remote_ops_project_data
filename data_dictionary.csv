@@ -1,0 +1,6 @@
+file,purpose
+treatment_data.csv,"Time-series hydraulic fracturing treatment readings used for dashboarding, data integrity checks, and post-job analysis."
+equipment_data.csv,Pump/fleet sensor records matched to treatment timestamps for fleet performance and maintenance analysis.
+well_info.csv,"Well metadata used to add basin, formation, operator, and location context."
+materials.csv,Stage-level material plan vs actual values used for pre-job and post-job reporting.
+job_plan.csv,Extra helper file with planned values and assigned pumps by well/stage.

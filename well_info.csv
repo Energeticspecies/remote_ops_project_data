@@ -1,0 +1,6 @@
+well_id,basin,county_state,operator,formation,true_vertical_depth_ft,lateral_length_ft
+W-101,Permian,"Midland, TX",Lone Star Energy,Wolfcamp,10450,9800
+W-102,Permian,"Reeves, TX",Blue Mesa Resources,Bone Spring,11200,10500
+W-103,Eagle Ford,"La Salle, TX",South Ridge Oil,Eagle Ford,9200,7500
+W-104,Haynesville,"DeSoto, LA",Bayou Gas Co.,Haynesville,12650,8900
+W-105,Marcellus,"Washington, PA",Appalachia Shale,Marcellus,7100,6200
